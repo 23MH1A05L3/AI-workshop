@@ -48,28 +48,55 @@ Build an AI-powered resume extraction pipeline that converts unstructured resume
 ![Day2_ResumeExtractorJSON](Day2_ResumeExtractorJSON.png)
 
 
-## Day4 Productivity Sprint
+## Day4
+
+### Lab 4a-Productivity Sprint
 
 **Company:** YugabyteDB (SDET Intern)
 
-### Edit Notes
+#### Edit Notes
 
-1. Verified stipend as ₹80,000/month using the official placement notice.
-2. CTC figures varied across sources; marked as "[verify with official offer letter]".
-3. Replaced Gamma's generic cover title with a YugabyteDB-specific tagline.
+  1. Verified stipend as ₹80,000/month using the official placement notice.
+  2. CTC figures varied across sources; marked as "[verify with official offer letter]".
+  3. Replaced Gamma's generic cover title with a YugabyteDB-specific tagline.
 
-### Files
+#### Files
 
-* `Day4_Yugabyte_brief.pdf`
-* `Day4_Yugabyte_deck.pdf`
+  * `Day4_Yugabyte_brief.pdf`
+  * `Day4_Yugabyte_deck.pdf`
 
-### Sources
+#### Sources
 
-* Official placement notice
-* Glassdoor interviews
-* eLitmus job posting
-* Greenhouse SDET JD
-* YugabyteDB internship blogs
-* BusinessWire
-* Tracxn
+  * Official placement notice
+  * Glassdoor interviews
+  * eLitmus job posting
+  * Greenhouse SDET JD
+  * YugabyteDB internship blogs
+  * BusinessWire
+  * Tracxn
 
+### Lab 4B: n8n Daily News Digest
+
+A self-hosted, automated workflow that fetches daily placement and tech news via RSS, processes and summarizes the text using the Groq API, and emails a concise 5-bullet digest every morning.
+
+## 🛠️ Tech Stack & Workflow
+
+*   **Host:** Self-hosted via Docker (`docker-compose`)
+*   **Automation Engine:** n8n
+*   **LLM API:** Groq (`api.groq.com/openai/v1/chat/completions`)
+*   **Delivery:** Gmail / SMTP Node
+
+### Workflow Architecture
+
+`Schedule Trigger (7:00 AM IST)` ➔ `RSS Read Node` ➔ `HTTP Request (Groq API)` ➔ `Gmail / SMTP Send Node`
+---
+
+## 📦 Deliverables
+
+*   ✅ **Workflow JSON:** [Day4_NewsDigest.json](Day4_NewsDigest.json)
+*   ✅ **Status:** Active & Automated
+
+### Verification Screenshot
+
+![Test Email Receipt](daily_digest_test_email-1.png)
+![Test Email Receipt](daily_digest_test_email-2.png)

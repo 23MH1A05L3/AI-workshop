@@ -46,3 +46,30 @@ Build an AI-powered resume extraction pipeline that converts unstructured resume
 ![Day2_ResumeExtractor](Day2_ResumeExtractor.png)
 
 ![Day2_ResumeExtractorJSON](Day2_ResumeExtractorJSON.png)
+
+
+## Day4 Productivity Sprint
+
+**Company:** YugabyteDB (SDET Intern)
+
+### Edit Notes
+
+1. Verified stipend as ₹80,000/month using the official placement notice.
+2. CTC figures varied across sources; marked as "[verify with official offer letter]".
+3. Replaced Gamma's generic cover title with a YugabyteDB-specific tagline.
+
+### Files
+
+* `Day4_Yugabyte_brief.pdf`
+* `Day4_Yugabyte_deck.pdf`
+
+### Sources
+
+* Official placement notice
+* Glassdoor interviews
+* eLitmus job posting
+* Greenhouse SDET JD
+* YugabyteDB internship blogs
+* BusinessWire
+* Tracxn
+

@@ -42,3 +42,7 @@ Build an AI-powered resume extraction pipeline that converts unstructured resume
   Skills
   Projects
   Experience (Years)
+  
+![Day2_ResumeExtractor](Day2_ResumeExtractor.png)
+
+![Day2_ResumeExtractorJSON](Day2_ResumeExtractorJSON.png)

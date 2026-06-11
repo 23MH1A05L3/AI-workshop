@@ -1,5 +1,5 @@
 # Placement Cell AI-Use Policy
-**Institution:** [Your College Name] | **Effective Date:** June 2026 | **Version:** 1.0
+**Institution:** Aditya University | **Effective Date:** June 2026 | 
 
 ---
 
@@ -54,4 +54,3 @@ Students **may not** use AI for the following. Each rule includes a detection me
 The placement cell will conduct post-placement verification for 25% of placed students each cycle, including a document check and a short debrief conversation on the student's reported experience and assessment performance. Violations of Prohibited Uses result in: **first offence** — written warning, mandatory re-verification of all submitted documents, and a 30-day suspension from placement activities; **second offence** — permanent withdrawal of placement cell support and a report to the academic integrity committee. The placement cell acknowledges it cannot monitor AI use during off-campus recruiter assessments; this policy therefore relies in part on student integrity and on each student's understanding that misrepresentation discovered after joining a company leads to termination and permanent reputational damage.
 
 ---
-*Policy reviewed annually. Queries: placement.cell@[college].edu*

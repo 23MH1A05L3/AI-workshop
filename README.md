@@ -98,5 +98,5 @@ A self-hosted, automated workflow that fetches daily placement and tech news via
 
 ### Verification Screenshot
 
-![Test Email Receipt](daily_digest_test_email-1.png)
-![Test Email Receipt](daily_digest_test_email-2.png)
+![Test Email Receipt](Day4_daily_digest_test_email-1.png)
+![Test Email Receipt](Day4_daily_digest_test_email-2.png)
